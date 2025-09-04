@@ -1,1 +1,4 @@
-[text](REVILLEZA-FREDERICK-bio.md)
+- Year/Section: e.g., 3rd Year / G1
+- Favorite Language: e.g., Java
+- One Git Tip Learned: e.g., Use `git status` often
+- GitHub: @blissfuljuan
