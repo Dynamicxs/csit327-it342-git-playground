@@ -1,4 +1,0 @@
-- Year/Section: 4th Year / G02
-- Favorite Language: Java, JavaScript, Python
-- One Git Tip Learned: git rebase, git branch -b.
-- GitHub: @VeranoJoel

@@ -1,4 +1,0 @@
-- Year/Section: 3rd yr / G01
-- Favorite Language: c#
-- One Git Tip Learned: Always commit
-- GitHub: @Nagazta

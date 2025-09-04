@@ -1,4 +1,0 @@
-- Year/Section: 4th year / G02
-- Favorite Language: Java, C, Python
-- One Git Tip Learned: Use `git branch` often
-- GitHub: @klaydgg12
